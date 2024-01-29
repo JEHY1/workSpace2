@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author JEHY
- *
- */
-module Calculator {
-}
